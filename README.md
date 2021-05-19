@@ -55,12 +55,13 @@
 
 
 ##  Desafio dia 01 - Ícone de mídia social em camadas <a name="id01"></a>
-![Dia 01](https://user-images.githubusercontent.com/37448340/88348819-d38d7000-cd24-11ea-99d1-39b04afb77f2.gif)
+
+<img src="Desafios/Dia 01/GIF.gif">
 
 
-[Meu codigo](https://github.com/MilenaCarecho/30diasDeCSS/tree/master/Desafios/dia%2001)
+[Meu codigo](https://github.com/will-yeager/Meu30diasDeCSS/tree/main/Desafios/Dia%2001)
 
-[Post LinkedIn](https://www.linkedin.com/posts/milenacarecho_30diascss-html5-css3-activity-6690824691449413632-7vau) 
+[Post LinkedIn](https://www.linkedin.com/posts/willjsb_30diasdecss-activity-6799395005028020224-PCNy) 
 
 
 ##### O que eu aprendi
@@ -76,12 +77,13 @@
 
 
 ##  Desafio dia 02 - Loader animado <a name="id02"></a>
-![Dia 02](https://user-images.githubusercontent.com/37448340/88348825-d5573380-cd24-11ea-832c-989e091167b8.gif)
+
+<img src="Desafios/Dia 02/GIF.gif">
 
 
-[Meu código](https://github.com/MilenaCarecho/30diasDeCSS/tree/master/Desafios/dia%2002)
+[Meu código](https://github.com/will-yeager/Meu30diasDeCSS/tree/main/Desafios/Dia%2002)
 
-[Post LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:6691381608261464064/)
+[Post LinkedIn](https://www.linkedin.com/posts/willjsb_30diasdecss-activity-6799851614321672193-cTkH)
 
 ##### O que eu aprendi
 
@@ -94,9 +96,9 @@
 <img src="Desafios/Dia 03/GIF.gif">
 
 
-[Meu código](https://github.com/MilenaCarecho/30diasDeCSS/tree/master/Desafios/dia%2003)
+[Meu código](https://github.com/will-yeager/Meu30diasDeCSS/tree/main/Desafios/Dia%2003)
 
-[Post LinkedIn]()
+[Post LinkedIn](https://www.linkedin.com/posts/willjsb_30diasdecss-activity-6800190277505183744-azqZ)
 
 
 ##### Dicas
@@ -106,11 +108,12 @@
 
 
 ##  Desafio dia 04 - Botão com efeito <a name="id04"></a>
-![dia 04](https://user-images.githubusercontent.com/37448340/88242961-38819100-cc65-11ea-82b3-b541ff8cb3d7.gif)
 
-[Meu codigo](https://github.com/MilenaCarecho/30diasDeCSS/tree/master/Desafios/dia%2004)
+<img src="Desafios/Dia 04/GIF.gif">
 
-[Post LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:6692115971647303681/)
+[Meu codigo](https://github.com/will-yeager/Meu30diasDeCSS/tree/main/Desafios/Dia%2004)
+
+[Post LinkedIn](https://www.linkedin.com/posts/willjsb_30diasdecss-activity-6800455359850012673-DIre)
 
 ##### O que eu aprendi
 
