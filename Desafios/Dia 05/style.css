@@ -1,0 +1,44 @@
+body {
+    margin: 0;
+    padding: 0;
+    height: 100vh;
+    font-family: 'Open Sans', sans-serif;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+    background: rgb(41, 42, 53);
+}
+
+.center {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+    width: 100px;
+    height: 100px;
+
+    background: rgb(0, 4, 255);
+    border-radius: 100%;
+
+    animation: teste 3s linear infinite;
+}
+
+.pulse {
+    position: absolute;
+
+    font-weight: bold;
+    font-size: 20px;
+    text-transform: uppercase;
+    color: white;
+
+
+}
+
+@keyframes teste {
+    0% {box-shadow: 0 0 0 0 rgb(4, 8, 255, 0.7), 0 0 0 0 rgb(4, 8, 255, 0.7);}
+    25% {box-shadow: 0 0 0 50px rgba(4, 8, 255, 0), 0 0 0 0 rgba(4, 8, 255, 0.7);}
+    50% {box-shadow: 0 0 0 50px rgba(4, 8, 255, 0), 0 0 0 30px rgba(4, 8, 255, 0);}
+    100% {box-shadow: 0 0 0 0 rgba(4, 8, 255, 0), 0 0 0 30px rgba(4, 8, 255, 0);}
+}

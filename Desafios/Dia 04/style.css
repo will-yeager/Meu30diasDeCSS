@@ -1,0 +1,59 @@
+body {
+    height: 100vh;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    background: rgb(0, 41, 58);
+}
+
+.btn {
+    width: 350px;
+    height: 100px;
+    cursor:  pointer;
+    position: relative;
+
+    background: none;
+    border: 5px solid rgb(0, 217, 255);
+    border-image: linear-gradient(45deg, rgb(36, 20, 255), rgb(0, 226, 207)) 1;
+    color: rgb(255, 255, 255);
+    font-family: 'Open Sans', sans-serif;
+    font-weight: bold;
+    font-size: 30px;
+
+}
+
+
+button:before, button:after {
+    width: 15px;
+    height: 5px;
+
+    position: absolute;
+    background: rgb(0, 41, 58);
+    content: "";
+    transition: 0.4s;
+
+    transform: skew(40deg, 0);
+
+}
+
+button:before {
+    top: -5px;
+    left: 20px;
+}
+
+button:after {
+    top: 90px;
+    right: 20px;
+}
+
+button:hover::after{
+    transform: skew(40deg, 0) translateX(-280px);
+}
+
+button:hover::before{
+    transform: skew(40deg, 0) translateX(280px);
+}
+
