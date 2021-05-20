@@ -122,3 +122,15 @@
 * *[::after](https://www.w3schools.com/cssref/sel_after.asp)*
 * *[Transições ](https://www.w3schools.com/css/css3_transitions.asp)*
 * *[transformação](https://www.w3schools.com/cssref/css3_pr_transform.asp)*
+
+##  Desafio dia 05 - Efeito pulsar <a name="id05"></a>
+![dia 05]("Desafios/Dia 05/GIF.gif")
+
+[Meu codigo](https://github.com/will-yeager/Meu30diasDeCSS/tree/main/Desafios/Dia%2004)
+
+[Post LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:6800924744817504256/)
+
+##### O que eu aprendi
+
+* *[animations](https://www.w3schools.com/css/css3_animations.asp)*
+* *[transformação](https://www.w3schools.com/cssref/css3_pr_transform.asp)*
