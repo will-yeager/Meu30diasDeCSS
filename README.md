@@ -124,7 +124,7 @@
 * *[transformação](https://www.w3schools.com/cssref/css3_pr_transform.asp)*
 
 ##  Desafio dia 05 - Efeito pulsar <a name="id05"></a>
-![dia 05]("Desafios/Dia 05/GIF.gif")
+<img src="Desafios/Dia 05/GIF.gif">
 
 [Meu codigo](https://github.com/will-yeager/Meu30diasDeCSS/tree/main/Desafios/Dia%2004)
 
