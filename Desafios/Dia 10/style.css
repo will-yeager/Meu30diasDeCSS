@@ -1,0 +1,29 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    height: 100vh;
+    background-color: rgb(66, 66, 77);
+    font-family: 'Open Sans', sans-serif;
+}
+
+h1 {
+    color: white;
+    font-size: 72px;
+}
+
+span::before {
+    position: absolute;
+    content: "";
+    width: 100px;
+    height: 100px;
+
+    animation: change 4s linear infinite;
+}
+
+@keyframes change {
+    0% {content: "🤿";}
+    50% {content: "💻";}
+    100% {content: "🎮";}
+}
